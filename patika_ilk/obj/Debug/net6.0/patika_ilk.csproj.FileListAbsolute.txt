@@ -1,0 +1,15 @@
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.csproj.AssemblyReference.cache
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.AssemblyInfoInputs.cache
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.AssemblyInfo.cs
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.csproj.CoreCompileInputs.cache
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\bin\Debug\net6.0\patika_ilk.exe
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\bin\Debug\net6.0\patika_ilk.deps.json
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\bin\Debug\net6.0\patika_ilk.runtimeconfig.json
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\bin\Debug\net6.0\patika_ilk.dll
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\bin\Debug\net6.0\patika_ilk.pdb
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.dll
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\refint\patika_ilk.dll
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.pdb
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\patika_ilk.genruntimeconfig.cache
+C:\Users\mguls\Documents\GitHub\kodluyoruzilkrepo\patika_ilk\obj\Debug\net6.0\ref\patika_ilk.dll
